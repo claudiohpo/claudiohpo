@@ -26,7 +26,7 @@ Estou sempre buscando evoluir como desenvolvedor, explorando **linguagens**, **f
 - 🔐 Redes e Segurança da Informação  
 - 👨‍💻 Desenvolvimento de Sistemas  
 - 🤖 IoT e Automação  
-- 🖧 Infraestrutura e Servidores
+- 🖥️ Infraestrutura e Servidores
 
 ---
 
