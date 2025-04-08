@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, seja bem-vindo ao meu GitHub!</h1>
 
-<!--
-**claudiohpo/claudiohpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Sou **Tecnólogo em Redes de Computadores** e atualmente **estudante de Análise e Desenvolvimento de Sistemas**.  
+Atuo profissionalmente com **manutenção em informática**, abrangendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Servidores  
+- 🌐 Redes  
+- ⚡ Sistemas de energia  
+- 🏦 Automação bancária e comercial  
+- 💻 Notebooks  
+- 📡 Telecomunicações
+
+---
+
+## 🚀 Sobre este perfil
+
+Aqui você vai encontrar **projetos e estudos** que unem minha experiência prática em infraestrutura com o desenvolvimento de soluções em software.  
+Estou sempre buscando evoluir como desenvolvedor, explorando **linguagens**, **frameworks** e **boas práticas de programação**.
+
+---
+
+## 🎯 Áreas de Interesse
+
+- 🔐 Redes e Segurança da Informação  
+- 👨‍💻 Desenvolvimento de Sistemas  
+- 🤖 IoT e Automação  
+- 🖧 Infraestrutura e Servidores
+
+---
+
+## 🤝 Vamos nos conectar!
+
+Fique à vontade para explorar os repositórios, acompanhar meus projetos ou trocar uma idéia!
+
+---
